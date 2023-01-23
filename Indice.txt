@@ -1,0 +1,9 @@
+JavaScript (JS)
+
+Modulo A:
+Conhecendo o JavaScript
+
+Modulo B: Comandos basicos do JavaScript
+Aula 05 - Variaveis e tipos primitivos
+Aula 06 - Tratamento de dados
+Aula 07 - Operadores (Parte 1)
